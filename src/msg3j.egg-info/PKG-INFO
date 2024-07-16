@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: msg3j
+Version: 0.0.1
+Summary: Managing message and conversation types for yaml conversion and contextual recall.
+Author-email: echoRedOx <echodevs@proton.me>
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# 3Juliet AI Messaging
+
+## Package Id: msg3j
+
+Purpose: Managing message and conversation types for yaml conversion and contextual recall.

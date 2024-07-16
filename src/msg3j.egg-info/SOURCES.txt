@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/actions.py
+src/types.py
+src/msg3j.egg-info/PKG-INFO
+src/msg3j.egg-info/SOURCES.txt
+src/msg3j.egg-info/dependency_links.txt
+src/msg3j.egg-info/top_level.txt
