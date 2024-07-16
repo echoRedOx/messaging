@@ -1,2 +1,7 @@
 .env
-/dev
+dist/
+venv/
+build/
+*.egg-info/
+.idea/
+*.log
